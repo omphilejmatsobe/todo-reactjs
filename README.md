@@ -28,7 +28,7 @@ In this task a simple To-Do list is created. It implements 3 Buttons ; Add, Edit
 | Filename |
 | ------ |
 | [main](https://github.com/omphilejmatsobe/todo-reactjs/tree/main/todo-app/src)|
-| [components](https://github.com/omphilejmatsobe/todo-react/blob/master/todo-app/src/components)|
+| [components](https://github.com/omphilejmatsobe/todo-reactjs/tree/main/todo-app/src/ui)|
 
 ## ScreenShots :bookmark_tabs:
 
